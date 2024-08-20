@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RentalCar</string>
+    <string name="trending_new_car">Trending new cars</string>
+    <string name="luxuriouscar">Luxurious\nRental Cars</string>
+    <string name="luxurious">Luxurious</string>
+    <string name="vipcars">VIP Cars</string>
+    <string name="New">New</string>
+</resources>
